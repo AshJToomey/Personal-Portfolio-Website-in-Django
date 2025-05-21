@@ -18,26 +18,48 @@ A simple personal portfolio built with Django. This website showcases my work, s
 ## 📂 Project Structure
 
 portfolio_site/
+
 ├── main/
+
 │ ├── migrations/
+
 │ ├── static/
+
 │ │ └── style.css
+
 │ ├── templates/
+
 │ │ └── index.html
+
 │ ├── init.py
+
 │ ├── admin.py
+
+
 │ ├── apps.py
+
 │ ├── models.py
+
 │ ├── tests.py
+
 │ └── views.py
+
 ├── portfolio_site/
+
 │ ├── init.py
+
 │ ├── settings.py
+
 │ ├── urls.py
+
 │ └── wsgi.py
+
 ├── db.sqlite3
+
 ├── manage.py
+
 ├── requirements.txt
+
 └── README.md
 
 
